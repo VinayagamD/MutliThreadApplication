@@ -1,4 +1,4 @@
-package com.vinay.mutlithread.inheritence;
+package com.vinay.mutlithread.intro.inheritence;
 
 public class MainThreadClass {
 

@@ -1,4 +1,4 @@
-package com.vinay.mutlithread;
+package com.vinay.mutlithread.intro;
 
 public class Main {
 

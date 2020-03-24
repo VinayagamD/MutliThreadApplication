@@ -1,4 +1,4 @@
-package com.vinay.mutlithread.terminating;
+package com.vinay.mutlithread.intro.terminating;
 
 import java.math.BigInteger;
 

@@ -1,10 +1,9 @@
-package com.vinay.mutlithread.join;
+package com.vinay.mutlithread.intro.join;
 
 import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.function.Consumer;
 
 public class ExampleJoinMain {
 

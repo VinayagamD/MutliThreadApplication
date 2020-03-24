@@ -1,4 +1,4 @@
-package com.vinay.mutlithread.inheritence.example;
+package com.vinay.mutlithread.intro.inheritence.example;
 
 import java.util.ArrayList;
 import java.util.List;
