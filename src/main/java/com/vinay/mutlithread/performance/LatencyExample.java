@@ -10,7 +10,7 @@ import java.util.List;
 public class LatencyExample {
 
     public static final String SOURCE_FILE = "/many-flowers.jpg";
-    public static final String DESTINATION_FILE = "./out/many-flowers.jpg";
+    public static final String DESTINATION_FILE = "./build/out/many-flowers.jpg";
 
     public static void main(String[] args) throws IOException {
         BufferedImage originalImage = ImageIO.read(new File(LatencyExample.class.getResource(SOURCE_FILE).getFile()));
