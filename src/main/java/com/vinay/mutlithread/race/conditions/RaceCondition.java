@@ -1,4 +1,4 @@
-package com.vinay.mutlithread.memory.management.race.conditions;
+package com.vinay.mutlithread.race.conditions;
 
 public class RaceCondition {
 
